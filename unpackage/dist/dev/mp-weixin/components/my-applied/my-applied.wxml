@@ -1,0 +1,1 @@
+<view class="data-v-69e607bf"><view class="ImgWord data-v-69e607bf" bindtap="{{d}}"><view class="card data-v-69e607bf"><image src="{{a}}" class="image data-v-69e607bf" mode="aspectFill"/></view><view class="text data-v-69e607bf"><text class="truncate data-v-69e607bf">{{b}}</text></view><button class="delete-button data-v-69e607bf" catchtap="{{c}}">删除</button></view></view>

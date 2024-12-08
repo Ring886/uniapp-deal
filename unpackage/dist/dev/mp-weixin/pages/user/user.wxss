@@ -1,0 +1,47 @@
+
+.container1.data-v-0f7520f0 {
+		display: flex;		
+		justify-content: center;
+		align-items: center;
+		height: 500rpx;
+		width: 100%;
+		background-color: lightgray;
+		flex-direction: column;
+}
+.container2.data-v-0f7520f0 {
+		display: flex;		
+		flex-direction: column;
+		padding: 30rpx;
+}
+.circle.data-v-0f7520f0 {
+		margin-top: 30rpx;
+		border: 2px solid black;
+		border-radius: 50%;
+		width: 200rpx;
+		height: 200rpx;
+		margin-bottom: 30rpx;
+}
+.img.data-v-0f7520f0 {
+		width: 100%;               
+		height: 100%;
+		object-fit: cover;
+		border-radius: 50%;
+}
+.text.data-v-0f7520f0 {
+		margin-bottom: 30rpx;
+}
+.popup-content.data-v-0f7520f0 {
+	  padding: 20px;
+	  text-align: center;
+}
+.button-group.data-v-0f7520f0 {
+	  display: flex;
+	  justify-content: space-between;
+	  margin-top: 20px;
+}
+.submit.data-v-0f7520f0{
+		line-height: 50rpx;			/*这个行高的属性解决了文字在按钮不居中显示的问题*/
+		border: 2rpx solid gray;
+		border-radius: 15rpx;
+		font-size: 30rpx;
+}

@@ -1,0 +1,1 @@
+<view><button type="primary" bindtap="{{a}}">点我发送最简单的一个请求</button><button bindtap="{{b}}">键登录</button><button open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber"></button></view>

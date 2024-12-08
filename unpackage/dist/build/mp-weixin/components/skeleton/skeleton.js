@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),n={};if(!Array){e.resolveComponent("template")()}const o=e._export_sfc(n,[["render",function(n,o){return{a:e.p({name:"skeleton"})}}]]);wx.createComponent(o);

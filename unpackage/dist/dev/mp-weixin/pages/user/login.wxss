@@ -1,0 +1,40 @@
+
+.container.data-v-6163e5ce {
+		display: flex;	
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+		height: 90vh; /* 使容器充满视口高度 */
+}
+.circle.data-v-6163e5ce {
+		border: 2px solid black;
+		border-radius: 50%;
+		width: 200rpx;
+		height: 200rpx;
+		margin-bottom: 130rpx;
+}
+.img.data-v-6163e5ce {
+		width: 100%;               
+		height: 100%;
+		object-fit: cover;
+		border-radius: 50%;
+}
+input.data-v-6163e5ce {
+		width: 300rpx;
+		height: 50rpx;
+		border: 2rpx solid gray;
+		margin: 30rpx;
+		border-radius: 15rpx;
+}
+.submit.data-v-6163e5ce{
+		line-height: 50rpx;			/*这个行高的属性解决了文字在按钮不居中显示的问题*/
+		border: 2rpx solid gray;
+		border-radius: 15rpx;
+		font-size: 30rpx;
+}
+.signup.data-v-6163e5ce{
+		margin-top: 20rpx;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+}

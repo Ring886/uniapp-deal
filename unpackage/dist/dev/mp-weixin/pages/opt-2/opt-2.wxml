@@ -1,0 +1,1 @@
+<view class="data-v-bdccc6df"><block wx:if="{{r0}}"><textarea type="text" class="input data-v-bdccc6df" placeholder="请填写您的反馈意见以及不满之处,我们会尽量改进" value="{{a}}" bindinput="{{b}}"/></block><button class="submit data-v-bdccc6df" bindtap="{{c}}" disabled="{{d}}">提交</button></view>

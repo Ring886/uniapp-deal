@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "上传",
+  "enablePullDownRefresh": false,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "uni-transition": "../../uni_modules/uni-transition/components/uni-transition/uni-transition"
+  }
+}

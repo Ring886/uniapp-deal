@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "东威二手",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "item-card": "../../components/item-preview/item-preview",
+    "skeleton": "../../components/skeleton/skeleton"
+  }
+}
